@@ -1,8 +1,8 @@
-![logo](https://github.com/shaikMahammedarif/shaikMahammedarif/blob/main/Mint%20Green%20Signature%20Beauty%20Lifestyle%20Travel%20Fashion%20Vlog%20Youtube%20Banner.jpg)
+![image](https://github.com/shaikMahammedarif/shaikMahammedarif/assets/129642434/a3e76f28-9aad-4b73-a067-f7424289fc09)![image](https://github.com/shaikMahammedarif/shaikMahammedarif/assets/129642434/261dbaa2-47d3-473c-bac3-c05a0f80caee)![logo](https://github.com/shaikMahammedarif/shaikMahammedarif/blob/main/Mint%20Green%20Signature%20Beauty%20Lifestyle%20Travel%20Fashion%20Vlog%20Youtube%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Arif Shaik</h1>
 <h3 align="center">"Exploring the Digital Frontier: A Journey Through Year Three"</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5622AQE7QPhI0_2qQw/feedshare-shrink_2048_1536/0/1695714370353?e=1700092800&v=beta&t=S_oXcE1gXkQCS3C7WkmFssoHYeUTpISkZ0795m5LC0c">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikmahammedarif&label=Profile%20views&color=0e75b6&style=flat" alt="shaikmahammedarif" /> </p>
 
