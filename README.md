@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **luckyarif288@gmail.com**
 
-- ⚡ Fun fact **"Computer code is the modern-day superpower; it empowers you to create worlds within a world."**
+- ⚡ Fun fact **"The term "Hello, World!" is traditionally used as the first program when learning a new programming language."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
