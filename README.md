@@ -1,4 +1,4 @@
-![logo](https://github.com/shaikMahammedarif/shaikMahammedarif/blob/main/Mint%20Green%20Signature%20Beauty%20Lifestyle%20Travel%20Fashion%20Vlog%20Youtube%20Banner.jpg)
+![logo](https://i.postimg.cc/9MpdDXh5/Picsart-24-04-10-15-20-22-533.jpg)
 <h1 align="center">Hi 👋, I'm Arif Shaik</h1>
 <h3 align="center">"Exploring the Digital Frontier: A Journey Through Year Three"</h3>
 
