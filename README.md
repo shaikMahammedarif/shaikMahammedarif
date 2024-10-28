@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVA Script,Node JS**
 
-- 📫 How to reach me **srlarif28@gmail.com**
+- 📫 How to reach me **shaikmahammedarif.me@gmail.com**
 
 - ⚡ Fun fact **"The term "Hello, World!" is traditionally used as the first program when learning a new programming language."**
 
