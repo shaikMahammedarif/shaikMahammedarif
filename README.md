@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/9MpdDXh5/Picsart-24-04-10-15-20-22-533.jpg)
 <h1 align="center">Hi 👋, I'm Shaik Mahammed Arif</h1>
-<h3 align="center">🚀 AWS Intern @Zelis | Full Stack Developer | Java Enthusiast | Exploring DevOps & Cloud</h3>
+<h3 align="center">🚀 Associate AWS Engineer @Zelis | Full Stack Developer | Java Enthusiast | Exploring DevOps & Cloud</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -55,18 +55,6 @@
 
 ---
 
-### ☕ Support My Work
-
-<p>
-  <a href="https://www.buymeacoffee.com/arifshaik">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/arifshaik">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
-  </a>
-</p>
-
----
 
 > 💼 “I believe code should solve real-world problems — clean, scalable, and impactful.”  
 > 🧭 Let's build, learn, and innovate together.
