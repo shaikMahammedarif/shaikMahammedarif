@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/9MpdDXh5/Picsart-24-04-10-15-20-22-533.jpg)
+<p align="left">   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI0ejBkOXB2Z3NvODV2eGR4OTF0NXFldTUzcWZydG9jcXV5MTdncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k81NasbqkKA5HSyJxN/giphy.gif" width="100%" alt="pixel-world-banner"/></p>
 <h1 align="center">Hi 👋, I'm Shaik Mahammed Arif</h1>
 <h3 align="center">🚀 Associate AWS Engineer @Zelis | Full Stack Developer | Java Enthusiast | Exploring DevOps & Cloud</h3>
 
